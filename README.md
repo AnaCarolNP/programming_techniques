@@ -1,3 +1,5 @@
 # Técnicas de Programação
 ## 4º Módulo do Curso de Data Science da Ada - LetsCode
-Final project of the fourth module of the data science course from Ada, whose task was to perform an exploratory analysis of the dataset “Covid-19 Deaths and Vaccinations” from Kaggle.
+Projeto final do quarto módulo do curso de data science da Ada, cuja tarefa era fazer uma análise exploratória do dataset "Covid-19 Deaths and Vaccinations" do Kaggle.
+
+
